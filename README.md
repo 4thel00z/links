@@ -14,6 +14,9 @@ This is a list of links I still have or want to read.
 
 * [Client server with Mirage for React (testing)](https://miragejs.com/quickstarts/react/develop-a-component/)
 
+### Terraform
+
+* [Youtube video for Terraform associate certification course](https://www.youtube.com/watch?v=V4waklkBC38)
 
 ## License
 
